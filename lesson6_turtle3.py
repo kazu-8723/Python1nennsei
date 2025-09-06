@@ -3,7 +3,7 @@ from turtle import *
 # 亀登場
 shape("turtle")
 # 色の指定
-col = ["orange", "limegreen", "gold", "plum", "tomato"]
+col = ["red", "blue", "green", "brown", "black"]
 # 以下3行を5回繰り返す
 for i in range(5):
 # 線の色の変更
